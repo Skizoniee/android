@@ -1028,5 +1028,5 @@
   </project>
 
   <include name="snippets/lineage.xml" />
-  <include name="snippets/losp.xml" />
+  <include name="snippets/skizoo.xml" />
 </manifest>
